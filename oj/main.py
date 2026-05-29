@@ -5,11 +5,11 @@ import subprocess
 import requests
 
 # ================= 配置設定 =================
-HACKMD_API_TOKEN = "4NL42W64W5MT7V3FL8LQDTA4L3ZAMS9CII5JXJ4TNMC2MER4W5"
+HACKMD_API_TOKEN = ""
 # 填入你從 F12 複製下來的 API 實際網址
 OJ_API_URL = "http://134.208.3.66/api/problem?problem_id=PR114-2-"
 # 本地程式碼路徑
-MY_CODE_FILE = "C:/Users/Administrator/Documents/programming/connect-main/pppppproming/main_data/school/"
+MY_CODE_FILE = ""
 OUTPUT_DIR = "solutions"
 # ============================================
 
